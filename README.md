@@ -1,4 +1,7 @@
-# test coverage for  [jwt-simple (v0.5.1)](https://github.com/hokaccha/node-jwt-simple#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jwt-simple.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jwt-simple) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jwt-simple.svg)](https://travis-ci.org/npmtest/node-npmtest-jwt-simple)
+# npmtest-jwt-simple
+
+#### basic test coverage for  [jwt-simple (v0.5.1)](https://github.com/hokaccha/node-jwt-simple#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-jwt-simple.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-jwt-simple) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-jwt-simple.svg)](https://travis-ci.org/npmtest/node-npmtest-jwt-simple)
+
 #### JWT(JSON Web Token) encode and decode module
 
 [![NPM](https://nodei.co/npm/jwt-simple.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jwt-simple)
